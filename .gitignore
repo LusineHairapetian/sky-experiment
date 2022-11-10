@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+packages/.DS_Store
+packages/api/node_modules/
+packages/web/.DS_Store
+packages/web/node_modules/
+packages/web/src/.DS_Store
+volumes/
